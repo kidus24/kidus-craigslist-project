@@ -1,4 +1,4 @@
-# Yoelslist-Project
+# Kidus-Project
 
 
 A Craigslist Clone using Rails as an API and React for the frontend. This app also uses JWT for user authentication.
